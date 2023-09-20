@@ -12,9 +12,9 @@
 <br>
 <br>
 
-- 😇 Thank you for being here.
- <br>
-<h3 align="left">Connect with me:</h3>
+- 😇 Thank you for being here
+<br>
+
 
 - 👉[My linkedIn account](https://www.linkedin.com/in/ozlemakcicek/)👈 <a href="https://www.linkedin.com/in/ozlemakcicek/" target="_blank">
 - 👉[My Xing account](https://www.xing.com/profile/ozlem_akcicek/cv)👈 <a href="https://www.xing.com/profile/ozlem_akcicek/cv" target="_blank">

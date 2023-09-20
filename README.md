@@ -14,11 +14,17 @@
 
 - 😇 Thank you for being here.
 - <br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 - 👉[My linkedIn account](https://www.linkedin.com/in/ozlemakcicek/)👈 <a href="https://www.linkedin.com/in/ozlemakcicek/" target="_blank">
 - 👉[My Xing account](https://www.xing.com/profile/ozlem_akcicek/cv)👈 <a href="https://www.xing.com/profile/ozlem_akcicek/cv" target="_blank">
 - 👉[My Instagram account](https://www.instagram.com/dev.ozlemakc/)👈 <a href="https://www.instagram.com/dev.ozlemakc/" target="_blank">
-- 👉 Portfolio ----> <a href="https://portfolio-pi-lime-17.vercel.app/" target="blank"> Here! </a> 
 - 📫 How to reach me **ozlemakcicek83@gmail.com**
+
+</p>
+<br>
+- 👉 Portfolio ----> <a href="https://portfolio-pi-lime-17.vercel.app/" target="blank"> Here! </a> 
+
 
 
 

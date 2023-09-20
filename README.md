@@ -9,13 +9,20 @@
 
 - 🔭 I love programming,chemistry,maths,books and life
 
-- 😄 Thank you for being here  👉[My linkedIn account](https://linkedin.com/in/ozlem akcicek)👈
+
+
+- 😇 Thank you for being here.👉[My linkedIn account](https://www.linkedin.com/in/ozlemakcicek/)👈 <a href="https://www.linkedin.com/in/ozlemakcicek/" target="_blank">
+- 👉 Portfolio ----> <a href="https://portfolio-pi-lime-17.vercel.app/" target="blank"> Here! </a> 
 - 📫 How to reach me **ozlemakcicek83@gmail.com**
--my portfolio 👉 https://portfolio-pi-lime-17.vercel.app/
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ozlem akcicek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozlem akcicek" height="30" width="40" /></a>
+
+  <a href="https://www.instagram.com/dev.ozlemakc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev,ozlemakc" height="30" width="40" /></a>
+
+  <a href="https://www.xing.com/profile/ozlem_akcicek/cv" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/49/49297.png?w=826&t=st=1691336080~exp=1691336680~hmac=c539a415febd6285352ae97646e2ef22649df84a34f84af45e33d802eeece6be" alt="xing.com" height="30" width="35" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

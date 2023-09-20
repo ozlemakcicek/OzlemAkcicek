@@ -8,10 +8,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozlemakcicek&label=Profile%20views&color=0e75b6&style=flat" alt="ozlemakcicek" /> </p>
 
 - 🔭 I love programming,chemistry,maths,books and life
-- 🌱 I’m currently learning React
-- 😄 Thank you for being here  👉[My linkedIn account](https://github.com/ozlemakcicek)👈
+
+- 😄 Thank you for being here  👉[My linkedIn account](https://linkedin.com/in/ozlem akcicek)👈
 - 📫 How to reach me **ozlemakcicek83@gmail.com**
-- ⚡ Fun fact **I am funny😊**
+-my portfolio 👉 https://portfolio-pi-lime-17.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

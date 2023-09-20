@@ -23,7 +23,7 @@
 
 
 <br>
-- 👉 Portfolio ----> <a href="https://portfolio-pi-lime-17.vercel.app/" target="blank"> Here! </a> 
+- 💫 My Portfolio  <a href="https://portfolio-pi-lime-17.vercel.app/" target="blank"> Here! </a> 
 
 
 

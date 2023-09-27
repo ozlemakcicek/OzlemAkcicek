@@ -23,7 +23,7 @@
 
 
 <br>
-- 💫 My Portfolio  <a href="https://portfolio-pi-lime-17.vercel.app/" target="blank"> Here! </a> 
+- 💫 My Portfolio  <a href="https://vercel.com/ozlemakcicek/portfolio" target="blank"> Here! </a> 
 
 
 

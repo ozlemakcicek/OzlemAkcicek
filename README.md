@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/SIi9Q5c5KMQhEUenYG/giphy.gif" align="right" width="400"></br>
+<img src="https://media.giphy.com/media/INzpQ0mfFZMSWq4xK7/giphy.gif" align="right" width="400"></br>
 ##   🏻‍  🤗👋🏻  Hi there, I am Özlem
 
 <h3 color="red">A passionate frontend developer from Germany</h3>
@@ -20,15 +20,9 @@
 [![website](https://img.shields.io/badge/instagram-ff1493.svg?&style=for-the-badge&logo=instagram&logoColor=pink)](https://www.instagram.com/dev.ozlemakc/)
 
 
-
-
-
-
-</br></br></br>
+</br></br>
 - 💫 My Portfolio  <a href="https://portfolio-ivory-one-98.vercel.app/" target="blank"> Here! </a> 
-
-
-</br></br></br>
+</br></br>
 
 
 ## 🚀 Skills

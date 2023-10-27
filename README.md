@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/INzpQ0mfFZMSWq4xK7/giphy.gif" align="right" width="600"></br>
+<img src="https://media.giphy.com/media/INzpQ0mfFZMSWq4xK7/giphy.gif" align="right" width="400"></br>
 ##   🏻‍  🤗👋🏻  Hi there, I am Özlem
 
 <h3 color="red">A passionate frontend developer from Germany</h3>
@@ -43,10 +43,10 @@
 [Movie App](https://movie-app-phi-peach.vercel.app/)| React, React Router,Tailwind, Firebase, Rest API|![mov](https://github.com/ozlemakcicek/MovieApp/blob/main/movie-app.gif)
 [Nba Legends](https://my-nba-legends.vercel.app/)| React, Tailwind CSS |![nba](https://github.com/ozlemakcicek/my-NBA-Legends/blob/master/nba-legends.gif)
 [Horoscope](https://de-04-horoscope-proj.vercel.app/)| React, SASS/SCSS |![horoscope](https://github.com/ozlemakcicek/DE-04-Horoscope-Proj/blob/main/Horoscope%20Gif.gif)
-[SASS Project ](https://sass-project-omega.vercel.app/)|  HTML5, SASS|![sass](https://github.com/ozlemakcicek/My-SassProj)
+[SASS Project](https://sass-project-omega.vercel.app/)|  HTML5, SASS |![sass](https://github.com/ozlemakcicek/My-SassProj)
 [Weather App](https://my-weather-app-lilac-ten.vercel.app/)| Vanilla JavaScript, HTML5, CSS3, DOM Manipulation, Local Storage |![video](https://github.com/ozlemakcicek/my-WeatherApp/blob/master/weather_app.gif)
+[Bootstrap Project](https://bootstrap-project-nu.vercel.app/)|  HTML5, Bootstrap |![bootstrap](https://github.com/ozlemakcicek/Bootstrap_Project/blob/main/Bootstrap%20Project%20Gif.gif)
 [Portfolio SASS ](https://bengin34.github.io/Portfolio-Page-Sass-Project/index.html)|  HTML5, SASS|![sass](https://user-images.githubusercontent.com/118957608/221443026-51e47633-23a6-4c56-8dd7-cb9590b2a217.gif)
-[Bootstrap Project ](https://bootstrap-project-nu.vercel.app/)|  HTML5, Bootstrap |![sass](https://github.com/ozlemakcicek/Bootstrap_Project/blob/main/Bootstrap%20Project%20Gif.gif)
 [Recipe App💅](https://7-recipe-app.vercel.app/)| React, React Router, Styled Component💅, API,HTTP Protocols|![food](https://user-images.githubusercontent.com/118957608/223141049-b7695491-a57c-43e6-9d5b-7bd55672d135.gif)
 [Task Tracker ](https://task-tracker-xi-five.vercel.app/)| React,Tailwind CSS, Local Storage,useState useEffect Hooks|![task tracker](https://user-images.githubusercontent.com/118957608/222405166-6323a946-f0a0-41b0-8b23-f61def147c5a.gif)
 [Checkout Page with React](https://react-checkout-page.vercel.app)| React, Bootstrap, Mock API, Async, Await, Axios|![checkoutPage](https://user-images.githubusercontent.com/118957608/221439741-d02bceab-5b30-4b86-a26e-6eae9531657d.gif)

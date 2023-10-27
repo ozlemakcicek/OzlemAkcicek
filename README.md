@@ -10,12 +10,14 @@
 </br>
 
 ![](https://komarev.com/ghpvc/?username=ozlemakcicek&color=red&style=for-the-badge)
+
+</br>
 #### 📬 Connect with me:
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozlemakcicek/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:ozlemakcicek83@gmail.com)
-[![website](https://img.shields.io/badge/xing-#7fff00.svg?&style=for-the-badge&logo=xing&logoColor=grün)](https://www.xing.com/profile/ozlem_akcicek/)
-[![website](https://img.shields.io/badge/instagram-#ff1493.svg?&style=for-the-badge&logo=instagram&logoColor=pink)](https://www.instagram.com/dev.ozlemakc/)
+[![website](https://img.shields.io/badge/xing-7fff00.svg?&style=for-the-badge&logo=xing&logoColor=grün)](https://www.xing.com/profile/ozlem_akcicek/)
+[![website](https://img.shields.io/badge/instagram-ff1493.svg?&style=for-the-badge&logo=instagram&logoColor=pink)](https://www.instagram.com/dev.ozlemakc/)
 
 
 

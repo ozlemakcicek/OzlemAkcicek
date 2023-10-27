@@ -40,18 +40,19 @@
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
 [Redux Django Blog App](https://blog-app-weld-pi.vercel.app/)| React, React Redux, Material UI, Formik, Yup, Persist |![blog app](https://github.com/ozlemakcicek/BlogApp/blob/main/BlogApp%20Gif.gif)
-[Netflix](https://netflix-basic-three.vercel.app/)| React, React Router,Tailwind, Firebase, Firestore Database|![netf](https://user-images.githubusercontent.com/118957608/226092423-9d9cd68f-75e2-42b1-8597-0807c882522a.gif)
-[Movie App](https://movie-app-nu-flame.vercel.app/)| React, React Router,Tailwind, Firebase, Rest API|![mov](https://user-images.githubusercontent.com/118957608/224515068-5be5fd5f-f1a9-4e2d-bcf1-4714758a5535.gif)
+[Movie App](https://movie-app-phi-peach.vercel.app/)| React, React Router,Tailwind, Firebase, Rest API|![mov](https://github.com/ozlemakcicek/MovieApp/blob/main/movie-app.gif)
+[Nba Legends](https://my-nba-legends.vercel.app/)| React, Tailwind CSS |![nba](https://github.com/ozlemakcicek/my-NBA-Legends/blob/master/nba-legends.gif)
+[Horoscope](https://de-04-horoscope-proj.vercel.app/)| React, SASS/SCSS |![horoscope](https://github.com/ozlemakcicek/DE-04-Horoscope-Proj/blob/main/Horoscope%20Gif.gif)
+[SASS Project ](https://sass-project-omega.vercel.app/)|  HTML5, SASS|![sass](https://github.com/ozlemakcicek/My-SassProj)
+[Weather App](https://my-weather-app-lilac-ten.vercel.app/)| Vanilla JavaScript, HTML5, CSS3, DOM Manipulation, Local Storage |![video](https://github.com/ozlemakcicek/my-WeatherApp/blob/master/weather_app.gif)
+[Portfolio SASS ](https://bengin34.github.io/Portfolio-Page-Sass-Project/index.html)|  HTML5, SASS|![sass](https://user-images.githubusercontent.com/118957608/221443026-51e47633-23a6-4c56-8dd7-cb9590b2a217.gif)
+[Bootstrap Project ](https://bootstrap-project-nu.vercel.app/)|  HTML5, Bootstrap |![sass](https://github.com/ozlemakcicek/Bootstrap_Project/blob/main/Bootstrap%20Project%20Gif.gif)
 [Recipe App💅](https://7-recipe-app.vercel.app/)| React, React Router, Styled Component💅, API,HTTP Protocols|![food](https://user-images.githubusercontent.com/118957608/223141049-b7695491-a57c-43e6-9d5b-7bd55672d135.gif)
 [Task Tracker ](https://task-tracker-xi-five.vercel.app/)| React,Tailwind CSS, Local Storage,useState useEffect Hooks|![task tracker](https://user-images.githubusercontent.com/118957608/222405166-6323a946-f0a0-41b0-8b23-f61def147c5a.gif)
 [Checkout Page with React](https://react-checkout-page.vercel.app)| React, Bootstrap, Mock API, Async, Await, Axios|![checkoutPage](https://user-images.githubusercontent.com/118957608/221439741-d02bceab-5b30-4b86-a26e-6eae9531657d.gif)
 [Todo App with React](https://todo-list-react-bengin34.vercel.app/)| React, CSS, Local Storage, React Hooks|![todo](https://user-images.githubusercontent.com/118957608/222153239-9a73cc42-22f3-4910-bc9c-e668ec0f7494.gif)
-[Nba Legends](https://nba-legends-react.vercel.app/)| React, Tailwind CSS |![nba](https://user-images.githubusercontent.com/118957608/221441103-5b41b3c8-298f-4628-9409-cc7e1612ad82.gif)
-[Horoscope](https://bengin34.github.io/horoscope-react-project/)| React, SASS/SCSS |![horoscope](https://user-images.githubusercontent.com/118957608/221441522-db0dafdc-72aa-4b9f-bcde-6ed65950da1c.gif)
-[Weather App](https://bengin34.github.io/WeatherAppBasic/)| Vanilla JavaScript, HTML5, CSS3, DOM Manipulation, Local Storage |![video](https://user-images.githubusercontent.com/118957608/215514463-aa4a219c-12f9-4448-ad10-bbf5b903bd86.gif)
 [Checkout Page JS](https://bengin34.github.io/CheckoutPage/)|  Vanilla JavaScript, HTML5, CSS3, DOM Manipulation|![checkout](https://user-images.githubusercontent.com/118957608/213875489-18766d2e-e63f-4434-bdf7-9f5e578edd98.png)
-[Portfolio SASS ](https://bengin34.github.io/Portfolio-Page-Sass-Project/index.html)|  HTML5, SASS|![sass](https://user-images.githubusercontent.com/118957608/221443026-51e47633-23a6-4c56-8dd7-cb9590b2a217.gif)
-
+[Netflix](https://netflix-basic-three.vercel.app/)| React, React Router,Tailwind, Firebase, Firestore Database|![netf](https://user-images.githubusercontent.com/118957608/226092423-9d9cd68f-75e2-42b1-8597-0807c882522a.gif)
 </div>
 </br>
 <br>

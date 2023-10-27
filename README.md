@@ -9,21 +9,17 @@
 <font color="pink"> 🤩 My developer career started in 2022, and it goes on🚀 </font>
 </br>
 
-! [] (https://komarev.com/ghpvc/?username=ozlemakcicek&label=Profile%20views&color=red&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=ozlemakcicek&color=red&style=for-the-badge)
 #### 📬 Connect with me:
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozlemakcicek/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:ozlemakcicek83@gmail.com)
-[![website](https://img.shields.io/badge/xing-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=grün)](https://www.xing.com/profile/ozlem_akcicek/)
-[![website](https://img.shields.io/badge/instagram-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=pink)](https://www.instagram.com/dev.ozlemakc/)
+[![website](https://img.shields.io/badge/xing-f1f2f6.svg?&style=for-the-badge&logo=xing&logoColor=grün)](https://www.xing.com/profile/ozlem_akcicek/)
+[![website](https://img.shields.io/badge/instagram-f1f2f6.svg?&style=for-the-badge&logo=instagram&logoColor=pink)](https://www.instagram.com/dev.ozlemakc/)
 
 
 
-</br>
-- 👉[My linkedIn account](https://www.linkedin.com/in/ozlemakcicek/)👈 <a href="https://www.linkedin.com/in/ozlemakcicek/" target="_blank">
-- 👉[My Xing account](https://www.xing.com/profile/ozlem_akcicek/cv)👈 <a href="https://www.xing.com/profile/ozlem_akcicek/cv" target="_blank">
-- 👉[My Instagram account](https://www.instagram.com/dev.ozlemakc/)👈 <a href="https://www.instagram.com/dev.ozlemakc/" target="_blank">
-- 📫 How to reach me **ozlemakcicek83@gmail.com**
+
 
 
 </br></br></br>

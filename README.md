@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/INzpQ0mfFZMSWq4xK7/giphy.gif" align="right" width="400"></br>
+<img src="https://media.giphy.com/media/INzpQ0mfFZMSWq4xK7/giphy.gif" align="right" width="600"></br>
 ##   🏻‍  🤗👋🏻  Hi there, I am Özlem
 
 <h3 color="red">A passionate frontend developer from Germany</h3>
@@ -39,7 +39,7 @@
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Redux Django Blog App](https://django-redux-blog-app.vercel.app/)| React, React Redux, Material UI, Formik, Yup, Persist |![blog app](https://github.com/bengin34/bengin34/assets/118957608/6b9a6dfb-652b-4064-a630-639e7bcceb3a)
+[Redux Django Blog App](blog-app-weld-pi.vercel.app)| React, React Redux, Material UI, Formik, Yup, Persist |![blog app](https://github.com/ozlemakcicek/BlogApp/blob/main/BlogApp%20Gif.gif)
 [Netflix](https://netflix-basic-three.vercel.app/)| React, React Router,Tailwind, Firebase, Firestore Database|![netf](https://user-images.githubusercontent.com/118957608/226092423-9d9cd68f-75e2-42b1-8597-0807c882522a.gif)
 [Movie App](https://movie-app-nu-flame.vercel.app/)| React, React Router,Tailwind, Firebase, Rest API|![mov](https://user-images.githubusercontent.com/118957608/224515068-5be5fd5f-f1a9-4e2d-bcf1-4714758a5535.gif)
 [Recipe App💅](https://7-recipe-app.vercel.app/)| React, React Router, Styled Component💅, API,HTTP Protocols|![food](https://user-images.githubusercontent.com/118957608/223141049-b7695491-a57c-43e6-9d5b-7bd55672d135.gif)

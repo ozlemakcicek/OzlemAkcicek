@@ -70,9 +70,9 @@
 [Portfolio ](https://portfolio-ivory-one-98.vercel.app/)|  HTML5, CSS|![css](https://github.com/ozlemakcicek/Portfolio/blob/main/Portfolio%20Gif.gif)
 [Recipe App💅](https://7-recipe-app.vercel.app/)| React, React Router, Styled Component💅, API,HTTP Protocols|![food](https://user-images.githubusercontent.com/118957608/223141049-b7695491-a57c-43e6-9d5b-7bd55672d135.gif)
 [Task Tracker ](https://task-tracker-jet-five.vercel.app/)| React,Tailwind CSS, Local Storage,useState useEffect Hooks|![task tracker](https://github.com/ozlemakcicek/task-tracker/blob/master/Task%20Tracker%20Gif.gif)
-[Checkout Page with React](https://react-checkout-page.vercel.app)| React, Bootstrap, Mock API, Async, Await, Axios|![checkoutPage](https://user-images.githubusercontent.com/118957608/221439741-d02bceab-5b30-4b86-a26e-6eae9531657d.gif)
-[Todo App with React](https://todo-list-react-bengin34.vercel.app/)| React, CSS, Local Storage, React Hooks|![todo](https://user-images.githubusercontent.com/118957608/222153239-9a73cc42-22f3-4910-bc9c-e668ec0f7494.gif)
-[Checkout Page JS](https://bengin34.github.io/CheckoutPage/)|  Vanilla JavaScript, HTML5, CSS3, DOM Manipulation|![checkout](https://user-images.githubusercontent.com/118957608/213875489-18766d2e-e63f-4434-bdf7-9f5e578edd98.png)
+[Checkout Page with JS](https://checkout-proj.vercel.app/)| React, Bootstrap, Mock API, Async, Await, Axios|![checkoutPage](https://github.com/ozlemakcicek/Checkout-Proj/blob/main/Checkout__Proj.%20Gif.gif)
+[Todo App with React](https://todo-list-react-bengin34.vercel.app/)| React, CSS, Local Storage, React Hooks |![todo](https://user-images.githubusercontent.com/118957608/222153239-9a73cc42-22f3-4910-bc9c-e668ec0f7494.gif)
+[Image Galery App with React](https://image-galery-proj.vercel.app/)| React, CSS|![image-galery](https://github.com/ozlemakcicek/Image-Galery-Proj/blob/main/Image-Galery__Proj.%20Gif.gif)
 [Netflix](https://netflix-basic-three.vercel.app/)| React, React Router,Tailwind, Firebase, Firestore Database|![netf](https://user-images.githubusercontent.com/118957608/226092423-9d9cd68f-75e2-42b1-8597-0807c882522a.gif)
 </div>
 </br>

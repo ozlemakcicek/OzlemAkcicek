@@ -39,7 +39,7 @@
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Redux Django Blog App](https://blog-app-weld-pi.vercel.app/)| React, React Redux, Material UI, Formik, Yup, Persist |![blog app](https://github.com/ozlemakcicek/BlogApp/blob/main/BlogApp%20Gif.gif)
+[Redux Blog App](https://my-blog-app-one-eta.vercel.app/)| React, React Redux, Material UI, Formik, Yup, Persist |![blog app](https://github.com/ozlemakcicek/myBlogApp/blob/main/BlogApp%20Gif.gif)
 [Movie App](https://movie-app-phi-peach.vercel.app/)| React, React Router,Tailwind, Firebase, Rest API|![mov](https://github.com/ozlemakcicek/MovieApp/blob/main/movie-app.gif)
 [Nba Legends](https://my-nba-legends.vercel.app/)| React, Tailwind CSS |![nba](https://github.com/ozlemakcicek/my-NBA-Legends/blob/master/nba-legends.gif)
 [Horoscope](https://de-04-horoscope-proj.vercel.app/)| React, SASS/SCSS |![horoscope](https://github.com/ozlemakcicek/DE-04-Horoscope-Proj/blob/main/Horoscope%20Gif.gif)

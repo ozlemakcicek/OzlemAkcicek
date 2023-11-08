@@ -73,7 +73,7 @@
 [Checkout Page with JS](https://checkout-proj.vercel.app/)| React, Bootstrap, Mock API, Async, Await, Axios|![checkoutPage](https://github.com/ozlemakcicek/Checkout-Proj/blob/main/Checkout__Proj.%20Gif.gif)
 [Todo App with React](https://todo-list-react-bengin34.vercel.app/)| React, CSS, Local Storage, React Hooks |![todo](https://user-images.githubusercontent.com/118957608/222153239-9a73cc42-22f3-4910-bc9c-e668ec0f7494.gif)
 [Image Galery App with React](https://image-galery-proj.vercel.app/)| React, CSS|![image-galery](https://github.com/ozlemakcicek/Image-Galery-Proj/blob/main/Image-Galery__Proj.%20Gif.gif)
-[Netflix](https://netflix-basic-three.vercel.app/)| React, React Router,Tailwind, Firebase, Firestore Database|![netf](https://user-images.githubusercontent.com/118957608/226092423-9d9cd68f-75e2-42b1-8597-0807c882522a.gif)
+[Netflix](https://netflix-two-tan.vercel.app/)| React, React Router,Tailwind, Firebase, Firestore Database|![netf](https://user-images.githubusercontent.com/118957608/226092423-9d9cd68f-75e2-42b1-8597-0807c882522a.gif)
 </div>
 </br>
 <br>
